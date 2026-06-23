@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Divi
 
-🚀 Founder of **Venlix** — a freelance hiring platform
+🚀 Building **Venlix** — a freelance hiring platform  -   ( https://www.venlix.tech/  )
 
 Building AI products, automations, and SaaS applications while documenting the journey publicly.  
 
@@ -78,7 +78,7 @@ LinkedIn: https://linkedin.com/in/divyend-reddy-06319837a
 
 instagram - https://www.instagram.com/divi.osx/
 
-freelance platform - venlix.tech
+freelance platform - https://www.venlix.tech/
 
 ---
 
